@@ -1,0 +1,14 @@
+{
+  "name": "node-docker-app",
+  "version": "1.0.0",
+  "description": "A simple project only to run using a docker container",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./index.js"
+  },
+  "author": "jujulioed",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
